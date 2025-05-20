@@ -26,8 +26,6 @@ kurs-prediksi-ml/
 │ └── train_model.py # Training & saving model
 ├── forecasting/
 │ └── forecast.py # Prediksi ke masa depan
-├── notebooks/
-│ └── kurs_prediksi_lstm.ipynb # Notebook eksperimen
 ├── main.py # Script utama (pipeline end-to-end)
 ├── requirements.txt
 └── README.md

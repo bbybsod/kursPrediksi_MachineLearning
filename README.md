@@ -7,7 +7,7 @@
 - 📊 **Pandas**, **NumPy** — manipulasi data
 - 🧼 **Scikit-learn** — preprocessing (normalisasi, split)
 - 🧠 **TensorFlow (Keras)** — model LSTM untuk prediksi
-- 📉 **Matplotlib**, **Seaborn** — visualisasi hasil
+- 📉 **Matplotlib**, — visualisasi hasil
 - 🧪 **Jupyter Notebook** — eksplorasi data dan eksperimen
 - 🗂️ Struktur modular `.py` — untuk pipeline produksi
 
